@@ -1,0 +1,61 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>> USER: mashraf pts/20 2014-08-28 07:40 (217.139.224.32) <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+----------------------------------------------------------------------------------------------------------------
+
+
+
+########################## Configuration for [mvpn : 217.139.253.22]
+# TIME STAMP: Thu Aug 28 07:50:54 EET 2014
+########################################################################
+
+spawn telnet 217.139.253.22
+Trying 217.139.253.22...
+Connected to 217.139.253.22.
+Escape character is '^]'.
+CCC                     
+                  ***                   
+         * *      ***      * *          
+       ** *                 * **        
+      ** *                   * **       
+     ** **  *             *  ** **      
+     ** **  *             *  **  **     
+    **  **   *           **  **  **     
+    **  **    **       ***   **  ***    
+    **   ***   *********    ***  ***    
+    ***  ****             ****  ****    
+    ***    ****          ****   ***     
+    ****    ***************    ****     
+     *****     *********     *****      
+      ******               ******       
+       ********         ********        
+         *********************          
+           *****************            
+               *********              
+
+**      *    ****        ****    ********          
+***     *  ***  ***    ***  ***  **     **     
+*  **   * **      **  **      ** **     **           
+*   **  * **      **  **      ** *******             
+*    ****  **    **    **    **  **    **            
+*      **   ******      ******   **     **
+
+
+User Access Verification
+
+Username: mashraf
+Password: 
+
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#ping 10.10.10.10
+Type escape sequence to abort.
+Sending 5, 100-byte ICMP Echos to 10.10.10.10, timeout is 2 seconds:
+.....
+Success rate is 0 percent (0/5)
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#ping 20.20.20.20
+Type escape sequence to abort.
+Sending 5, 100-byte ICMP Echos to 20.20.20.20, timeout is 2 seconds:
+.....
+Success rate is 0 percent (0/5)
+mvpn.rams.ca.asr1#
+

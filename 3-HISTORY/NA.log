@@ -1,0 +1,1072 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>> USER: rhashish pts/18 2015-02-12 06:48 (217.139.224.4) <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+----------------------------------------------------------------------------------------------------------------
+
+
+
+########################## Configuration for [mvpn : 217.139.253.22]
+# TIME STAMP: Thu Feb 12 07:23:43 EET 2015
+########################################################################
+
+spawn telnet 217.139.253.22
+Trying 217.139.253.22...
+Connected to 217.139.253.22.
+Escape character is '^]'.
+
+CC                     
+                  ***                   
+         * *      ***      * *          
+       ** *                 * **        
+      ** *                   * **       
+     ** **  *             *  ** **      
+     ** **  *             *  **  **     
+    **  **   *           **  **  **     
+    **  **    **       ***   **  ***    
+    **   ***   *********    ***  ***    
+    ***  ****             ****  ****    
+    ***    ****          ****   ***     
+    ****    ***************    ****     
+     *****     *********     *****      
+      ******               ******       
+       ********         ********        
+         *********************          
+           *****************            
+               *********              
+
+**      *    ****        ****    ********          
+***     *  ***  ***    ***  ***  **     **     
+*  **   * **      **  **      ** **     **           
+*   **  * **      **  **      ** *******             
+*    ****  **    **    **    **  **    **            
+*      **   ******      ******   **     **
+
+
+User Access Verification
+
+Username: rhashish
+Password: 
+
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i FCZ1006114S
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i FCZ1453C4MF
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i JAE1538039R
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i FCZ104173V6
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i FTX1138A264
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i JAE1333GXKU
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i JAE1508032F
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i JAE13062760
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i JAE15050EZK
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i JAE15200AP1
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i JAE160104FN
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i SAL1646SG0U
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i FTX1335504W
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i JAE1334HFEI
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i FOX1431GN1G
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i JAE14300FNG
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i JAE14300FOR
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#
+
+########################## Configuration for [pe-ramsis : 217.139.253.151]
+# TIME STAMP: Thu Feb 12 07:23:44 EET 2015
+########################################################################
+
+spawn telnet 217.139.253.151
+Trying 217.139.253.151...
+Connected to 217.139.253.151.
+Escape character is '^]'.
+C                     
+                  ***                   
+         * *      ***      * *          
+       ** *                 * **        
+      ** *                   * **       
+     ** **  *             *  ** **      
+     ** **  *             *  **  **     
+    **  **   *           **  **  **     
+    **  **    **       ***   **  ***    
+    **   ***   *********    ***  ***    
+    ***  ****             ****  ****    
+    ***    ****          ****   ***     
+    ****    ***************    ****     
+     *****     *********     *****      
+      ******               ******       
+       ********         ********        
+         *********************          
+           *****************            
+               *********              
+
+**      *    ****        ****    ********          
+***     *  ***  ***    ***  ***  **     **     
+*  **   * **      **  **      ** **     **           
+*   **  * **      **  **      ** *******             
+*    ****  **    **    **    **  **    **            
+*      **   ******      ******   **     **
+
+
+User Access Verification
+
+Username: rhashish
+Password: 
+
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i FCZ1006114S
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i FCZ1453C4MF
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i JAE1538039R
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i FCZ104173V6
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i FTX1138A264
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i JAE1333GXKU
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i JAE1508032F
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i JAE13062760
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i JAE15050EZK
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i JAE15200AP1
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i JAE160104FN
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i SAL1646SG0U
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i FTX1335504W
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i JAE1334HFEI
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i FOX1431GN1G
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i JAE14300FNG
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i JAE14300FOR
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#
+
+########################## Configuration for [pe-auto : 217.139.253.152]
+# TIME STAMP: Thu Feb 12 07:23:44 EET 2015
+########################################################################
+
+spawn telnet 217.139.253.152
+Trying 217.139.253.152...
+Connected to 217.139.253.152.
+Escape character is '^]'.
+CC                     
+                  ***                   
+         * *      ***      * *          
+       ** *                 * **        
+      ** *                   * **       
+     ** **  *             *  ** **      
+     ** **  *             *  **  **     
+    **  **   *           **  **  **     
+    **  **    **       ***   **  ***    
+    **   ***   *********    ***  ***    
+    ***  ****             ****  ****    
+    ***    ****          ****   ***     
+    ****    ***************    ****     
+     *****     *********     *****      
+      ******               ******       
+       ********         ********        
+         *********************          
+           *****************            
+               *********              
+
+**      *    ****        ****    ********          
+***     *  ***  ***    ***  ***  **     **     
+*  **   * **      **  **      ** **     **           
+*   **  * **      **  **      ** *******             
+*    ****  **    **    **    **  **    **            
+*      **   ******      ******   **     **
+
+
+User Access Verification
+
+Username: rhashish
+Password: 
+
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i FCZ1006114S
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i FCZ1453C4MF
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i JAE1538039R
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i FCZ104173V6
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i FTX1138A264
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i JAE1333GXKU
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i JAE1508032F
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i JAE13062760
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i JAE15050EZK
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i JAE15200AP1
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i JAE160104FN
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i SAL1646SG0U
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i FTX1335504W
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i JAE1334HFEI
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i FOX1431GN1G
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i JAE14300FNG
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i JAE14300FOR
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#
+
+########################## Configuration for [pe-dokki : 217.139.253.153]
+# TIME STAMP: Thu Feb 12 07:23:45 EET 2015
+########################################################################
+
+spawn telnet 217.139.253.153
+Trying 217.139.253.153...
+Connected to 217.139.253.153.
+Escape character is '^]'.
+
+
+User Access Verification
+
+Username: rhashish
+Password: 
+
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i FCZ1006114S
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i FCZ1453C4MF
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i JAE1538039R
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i FCZ104173V6
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i FTX1138A264
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i JAE1333GXKU
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i JAE1508032F
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i JAE13062760
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i JAE15050EZK
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i JAE15200AP1
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i JAE160104FN
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i SAL1646SG0U
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i FTX1335504W
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i JAE1334HFEI
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i FOX1431GN1G
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i JAE14300FNG
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i JAE14300FOR
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#
+
+########################## Configuration for [pe-almaza : 217.139.253.154]
+# TIME STAMP: Thu Feb 12 07:23:46 EET 2015
+########################################################################
+
+spawn telnet 217.139.253.154
+Trying 217.139.253.154...
+Connected to 217.139.253.154.
+Escape character is '^]'.
+C                     
+                  ***                   
+         * *      ***      * *          
+       ** *                 * **        
+      ** *                   * **       
+     ** **  *             *  ** **      
+     ** **  *             *  **  **     
+    **  **   *           **  **  **     
+    **  **    **       ***   **  ***    
+    **   ***   *********    ***  ***    
+    ***  ****             ****  ****    
+    ***    ****          ****   ***     
+    ****    ***************    ****     
+     *****     *********     *****      
+      ******               ******       
+       ********         ********        
+         *********************          
+           *****************            
+               *********              
+
+**      *    ****        ****    ********          
+***     *  ***  ***    ***  ***  **     **     
+*  **   * **      **  **      ** **     **           
+*   **  * **      **  **      ** *******             
+*    ****  **    **    **    **  **    **            
+*      **   ******      ******   **     **
+
+
+User Access Verification
+
+Username: rhashish
+Password: 
+
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i FCZ1006114S
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i FCZ1453C4MF
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i JAE1538039R
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i FCZ104173V6
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i FTX1138A264
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i JAE1333GXKU
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i JAE1508032F
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i JAE13062760
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i JAE15050EZK
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i JAE15200AP1
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i JAE160104FN
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i SAL1646SG0U
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i FTX1335504W
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i JAE1334HFEI
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i FOX1431GN1G
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i JAE14300FNG
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i JAE14300FOR
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#
+
+########################## Configuration for [pe-assiut : 217.139.253.32]
+# TIME STAMP: Thu Feb 12 07:23:47 EET 2015
+########################################################################
+
+spawn telnet 217.139.253.32
+Trying 217.139.253.32...
+Connected to 217.139.253.32.
+Escape character is '^]'.
+CC                     
+                  ***                   
+         * *      ***      * *          
+       ** *                 * **        
+      ** *                   * **       
+     ** **  *             *  ** **      
+     ** **  *             *  **  **     
+    **  **   *           **  **  **     
+    **  **    **       ***   **  ***    
+    **   ***   *********    ***  ***    
+    ***  ****             ****  ****    
+    ***    ****          ****   ***     
+    ****    ***************    ****     
+     *****     *********     *****      
+      ******               ******       
+       ********         ********        
+         *********************          
+           *****************            
+               *********              
+
+**      *    ****        ****    ********          
+***     *  ***  ***    ***  ***  **     **     
+*  **   * **      **  **      ** **     **           
+*   **  * **      **  **      ** *******             
+*    ****  **    **    **    **  **    **            
+*      **   ******      ******   **     **
+
+User Access Verification
+
+Username: rhashish
+Password: 
+
+pe.assu.as.asr1#
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i FCZ1006114S
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i FCZ1453C4MF
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i JAE1538039R
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i FCZ104173V6
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i FTX1138A264
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i JAE1333GXKU
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i JAE1508032F
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i JAE13062760
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i JAE15050EZK
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i JAE15200AP1
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i JAE160104FN
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i SAL1646SG0U
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i FTX1335504W
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i JAE1334HFEI
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i FOX1431GN1G
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i JAE14300FNG
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i JAE14300FOR
+pe.assu.as.asr1#
+pe.assu.as.asr1#
+
+########################## Configuration for [asbr1 : 217.139.253.11 bng-rams : 217.139.253.19 dr-common : 217.139.253.126 e3p-almaza : 217.139.253.102 e3p-dokki : 217.139.253.101 e3p-ramsis : 217.139.253.100 gateway-1 : 217.139.253.1 p1-rams : 217.139.253.141 p2-auto : 217.139.253.142 p3-dokki : 217.139.253.143 p4-almaza : 217.139.253.144 pe-almaza : 217.139.253.154 pe-auto : 217.139.253.152 pe-dokki : 217.139.253.153 pe-giza : 217.139.253.122 pe-ramsis : 217.139.253.151 pe1-10ram : 217.139.253.10 pe1-almaza : 217.139.253.123 pe1-assiut : 217.139.253.132 pe1-auto : 217.139.253.130 pe1-bablouk : 217.139.253.137 pe1-dokki : 217.139.253.16 pe1-fawala : 217.139.253.120 pe1-helwan : 217.139.253.139 pe1-mohan : 217.139.253.127 pe1-nasr : 217.139.253.15 pe1-oct2 : 217.139.253.131 pe1-rams : 217.139.253.124 pe1-roda : 217.139.253.108 pe1-smv : 217.139.253.135 pe2-ramsis : 217.139.253.133 rr-dokki : 217.139.253.110 rr-rams : 217.139.253.125]
+# TIME STAMP: Thu Feb 12 07:23:48 EET 2015
+########################################################################
+
+spawn telnet 217.139.253.1
+Trying 217.139.253.1...
+Connected to 217.139.253.1.
+Escape character is '^]'.
+
+
+User Access Verification
+
+Username: rhashish
+Password: 
+
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i FCZ1006114S
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i FCZ1453C4MF
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i JAE1538039R
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i FCZ104173V6
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i FTX1138A264
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i JAE1333GXKU
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i JAE1508032F
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i JAE13062760
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i JAE15050EZK
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i JAE15200AP1
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i JAE160104FN
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i SAL1646SG0U
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i FTX1335504W
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i JAE1334HFEI
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i FOX1431GN1G
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i JAE14300FNG
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i JAE14300FOR
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#
+
+########################## Configuration for [gateway-3 : 217.139.253.5]
+# TIME STAMP: Thu Feb 12 07:23:49 EET 2015
+########################################################################
+
+spawn telnet 217.139.253.5
+Trying 217.139.253.5...
+Connected to 217.139.253.5.
+Escape character is '^]'.
+
+
+User Access Verification
+
+Username: rhashish
+Password: 
+
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i FCZ1006114S
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i FCZ1453C4MF
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i JAE1538039R
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i FCZ104173V6
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i FTX1138A264
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i JAE1333GXKU
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i JAE1508032F
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i JAE13062760
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i JAE15050EZK
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i JAE15200AP1
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i JAE160104FN
+PID: ASR1000-ESP40     , VID: V01, SN: JAE160104FN
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i SAL1646SG0U
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i FTX1335504W
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i JAE1334HFEI
+PID: ASR1000-RP2       , VID: V01, SN: JAE1334HFEI
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i FOX1431GN1G
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i JAE14300FNG
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i JAE14300FOR
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>> USER: rhashish pts/18 2015-02-12 06:48 (217.139.224.4) <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+----------------------------------------------------------------------------------------------------------------
+
+
+
+########################## Configuration for [mvpn : 217.139.253.22]
+# TIME STAMP: Thu Feb 12 07:30:43 EET 2015
+########################################################################
+
+spawn telnet 217.139.253.22
+Trying 217.139.253.22...
+Connected to 217.139.253.22.
+Escape character is '^]'.
+
+CC                     
+                  ***                   
+         * *      ***      * *          
+       ** *                 * **        
+      ** *                   * **       
+     ** **  *             *  ** **      
+     ** **  *             *  **  **     
+    **  **   *           **  **  **     
+    **  **    **       ***   **  ***    
+    **   ***   *********    ***  ***    
+    ***  ****             ****  ****    
+    ***    ****          ****   ***     
+    ****    ***************    ****     
+     *****     *********     *****      
+      ******               ******       
+       ********         ********        
+         *********************          
+           *****************            
+               *********              
+
+**      *    ****        ****    ********          
+***     *  ***  ***    ***  ***  **     **     
+*  **   * **      **  **      ** **     **           
+*   **  * **      **  **      ** *******             
+*    ****  **    **    **    **  **    **            
+*      **   ******      ******   **     **
+
+
+User Access Verification
+
+Username: rhashish
+Password: 
+
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i FCZ1006114S
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i FCZ1453C4MF
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i JAE1538039R
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i FCZ104173V6
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i FTX1138A264
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i JAE1508032F
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i JAE13062760
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i JAE15050EZK
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i JAE15200AP1
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i SAL1646SG0U
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i FTX1335504W
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i FOX1431GN1G
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i JAE14300FNG
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i JAE14300FOR
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#
+
+########################## Configuration for [pe-ramsis : 217.139.253.151]
+# TIME STAMP: Thu Feb 12 07:30:44 EET 2015
+########################################################################
+
+spawn telnet 217.139.253.151
+Trying 217.139.253.151...
+Connected to 217.139.253.151.
+Escape character is '^]'.
+C                     
+                  ***                   
+         * *      ***      * *          
+       ** *                 * **        
+      ** *                   * **       
+     ** **  *             *  ** **      
+     ** **  *             *  **  **     
+    **  **   *           **  **  **     
+    **  **    **       ***   **  ***    
+    **   ***   *********    ***  ***    
+    ***  ****             ****  ****    
+    ***    ****          ****   ***     
+    ****    ***************    ****     
+     *****     *********     *****      
+      ******               ******       
+       ********         ********        
+         *********************          
+           *****************            
+               *********              
+
+**      *    ****        ****    ********          
+***     *  ***  ***    ***  ***  **     **     
+*  **   * **      **  **      ** **     **           
+*   **  * **      **  **      ** *******             
+*    ****  **    **    **    **  **    **            
+*      **   ******      ******   **     **
+
+
+User Access Verification
+
+Username: rhashish
+Password: 
+
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i FCZ1006114S
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i FCZ1453C4MF
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i JAE1538039R
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i FCZ104173V6
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i FTX1138A264
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i JAE1508032F
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i JAE13062760
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i JAE15050EZK
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i JAE15200AP1
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i SAL1646SG0U
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i FTX1335504W
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i FOX1431GN1G
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i JAE14300FNG
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i JAE14300FOR
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#
+
+########################## Configuration for [pe-auto : 217.139.253.152]
+# TIME STAMP: Thu Feb 12 07:30:45 EET 2015
+########################################################################
+
+spawn telnet 217.139.253.152
+Trying 217.139.253.152...
+Connected to 217.139.253.152.
+Escape character is '^]'.
+CC                     
+                  ***                   
+         * *      ***      * *          
+       ** *                 * **        
+      ** *                   * **       
+     ** **  *             *  ** **      
+     ** **  *             *  **  **     
+    **  **   *           **  **  **     
+    **  **    **       ***   **  ***    
+    **   ***   *********    ***  ***    
+    ***  ****             ****  ****    
+    ***    ****          ****   ***     
+    ****    ***************    ****     
+     *****     *********     *****      
+      ******               ******       
+       ********         ********        
+         *********************          
+           *****************            
+               *********              
+
+**      *    ****        ****    ********          
+***     *  ***  ***    ***  ***  **     **     
+*  **   * **      **  **      ** **     **           
+*   **  * **      **  **      ** *******             
+*    ****  **    **    **    **  **    **            
+*      **   ******      ******   **     **
+
+
+User Access Verification
+
+Username: rhashish
+Password: 
+
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i FCZ1006114S
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i FCZ1453C4MF
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i JAE1538039R
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i FCZ104173V6
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i FTX1138A264
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i JAE1508032F
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i JAE13062760
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i JAE15050EZK
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i JAE15200AP1
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i SAL1646SG0U
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i FTX1335504W
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i FOX1431GN1G
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i JAE14300FNG
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i JAE14300FOR
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#
+
+########################## Configuration for [pe-dokki : 217.139.253.153]
+# TIME STAMP: Thu Feb 12 07:30:45 EET 2015
+########################################################################
+
+spawn telnet 217.139.253.153
+Trying 217.139.253.153...
+Connected to 217.139.253.153.
+Escape character is '^]'.
+
+
+User Access Verification
+
+Username: rhashish
+Password: 
+
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i FCZ1006114S
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i FCZ1453C4MF
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i JAE1538039R
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i FCZ104173V6
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i FTX1138A264
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i JAE1508032F
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i JAE13062760
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i JAE15050EZK
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i JAE15200AP1
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i SAL1646SG0U
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i FTX1335504W
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i FOX1431GN1G
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i JAE14300FNG
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i JAE14300FOR
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#
+
+########################## Configuration for [pe-almaza : 217.139.253.154]
+# TIME STAMP: Thu Feb 12 07:30:46 EET 2015
+########################################################################
+
+spawn telnet 217.139.253.154
+Trying 217.139.253.154...
+Connected to 217.139.253.154.
+Escape character is '^]'.
+C                     
+                  ***                   
+         * *      ***      * *          
+       ** *                 * **        
+      ** *                   * **       
+     ** **  *             *  ** **      
+     ** **  *             *  **  **     
+    **  **   *           **  **  **     
+    **  **    **       ***   **  ***    
+    **   ***   *********    ***  ***    
+    ***  ****             ****  ****    
+    ***    ****          ****   ***     
+    ****    ***************    ****     
+     *****     *********     *****      
+      ******               ******       
+       ********         ********        
+         *********************          
+           *****************            
+               *********              
+
+**      *    ****        ****    ********          
+***     *  ***  ***    ***  ***  **     **     
+*  **   * **      **  **      ** **     **           
+*   **  * **      **  **      ** *******             
+*    ****  **    **    **    **  **    **            
+*      **   ******      ******   **     **
+
+
+User Access Verification
+
+Username: rhashish
+Password: 
+
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i FCZ1006114S
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i FCZ1453C4MF
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i JAE1538039R
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i FCZ104173V6
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i FTX1138A264
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i JAE1508032F
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i JAE13062760
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i JAE15050EZK
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i JAE15200AP1
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i SAL1646SG0U
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i FTX1335504W
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i FOX1431GN1G
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i JAE14300FNG
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i JAE14300FOR
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#
+
+########################## Configuration for [pe-assiut : 217.139.253.32]
+# TIME STAMP: Thu Feb 12 07:30:47 EET 2015
+########################################################################
+
+spawn telnet 217.139.253.32
+Trying 217.139.253.32...
+Connected to 217.139.253.32.
+Escape character is '^]'.
+CC                     
+                  ***                   
+         * *      ***      * *          
+       ** *                 * **        
+      ** *                   * **       
+     ** **  *             *  ** **      
+     ** **  *             *  **  **     
+    **  **   *           **  **  **     
+    **  **    **       ***   **  ***    
+    **   ***   *********    ***  ***    
+    ***  ****             ****  ****    
+    ***    ****          ****   ***     
+    ****    ***************    ****     
+     *****     *********     *****      
+      ******               ******       
+       ********         ********        
+         *********************          
+           *****************            
+               *********              
+
+**      *    ****        ****    ********          
+***     *  ***  ***    ***  ***  **     **     
+*  **   * **      **  **      ** **     **           
+*   **  * **      **  **      ** *******             
+*    ****  **    **    **    **  **    **            
+*      **   ******      ******   **     **
+
+
+User Access Verification
+
+Username: rhashish
+Password: 
+
+pe.assu.as.asr1#
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i FCZ1006114S
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i FCZ1453C4MF
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i JAE1538039R
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i FCZ104173V6
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i FTX1138A264
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i JAE1508032F
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i JAE13062760
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i JAE15050EZK
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i JAE15200AP1
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i SAL1646SG0U
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i FTX1335504W
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i FOX1431GN1G
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i JAE14300FNG
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i JAE14300FOR
+pe.assu.as.asr1#
+pe.assu.as.asr1#
+
+########################## Configuration for [asbr1 : 217.139.253.11 bng-rams : 217.139.253.19 dr-common : 217.139.253.126 e3p-almaza : 217.139.253.102 e3p-dokki : 217.139.253.101 e3p-ramsis : 217.139.253.100 gateway-1 : 217.139.253.1 p1-rams : 217.139.253.141 p2-auto : 217.139.253.142 p3-dokki : 217.139.253.143 p4-almaza : 217.139.253.144 pe-almaza : 217.139.253.154 pe-auto : 217.139.253.152 pe-dokki : 217.139.253.153 pe-giza : 217.139.253.122 pe-ramsis : 217.139.253.151 pe1-10ram : 217.139.253.10 pe1-almaza : 217.139.253.123 pe1-assiut : 217.139.253.132 pe1-auto : 217.139.253.130 pe1-bablouk : 217.139.253.137 pe1-dokki : 217.139.253.16 pe1-fawala : 217.139.253.120 pe1-helwan : 217.139.253.139 pe1-mohan : 217.139.253.127 pe1-nasr : 217.139.253.15 pe1-oct2 : 217.139.253.131 pe1-rams : 217.139.253.124 pe1-roda : 217.139.253.108 pe1-smv : 217.139.253.135 pe2-ramsis : 217.139.253.133 rr-dokki : 217.139.253.110 rr-rams : 217.139.253.125]
+# TIME STAMP: Thu Feb 12 07:30:48 EET 2015
+########################################################################
+
+spawn telnet 217.139.253.1
+Trying 217.139.253.1...
+Connected to 217.139.253.1.
+Escape character is '^]'.
+
+
+User Access Verification
+
+Username: rhashish
+Password: 
+
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i FCZ1006114S
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i FCZ1453C4MF
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i JAE1538039R
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i FCZ104173V6
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i FTX1138A264
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i JAE1508032F
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i JAE13062760
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i JAE15050EZK
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i JAE15200AP1
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i SAL1646SG0U
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i FTX1335504W
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i FOX1431GN1G
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i JAE14300FNG
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i JAE14300FOR
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#
+
+########################## Configuration for [gateway-3 : 217.139.253.5]
+# TIME STAMP: Thu Feb 12 07:30:49 EET 2015
+########################################################################
+
+spawn telnet 217.139.253.5
+Trying 217.139.253.5...
+Connected to 217.139.253.5.
+Escape character is '^]'.
+
+User Access Verification
+
+Username: rhashish
+Password: 
+
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i FCZ1006114S
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i FCZ1453C4MF
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i JAE1538039R
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i FCZ104173V6
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i FTX1138A264
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i JAE1508032F
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i JAE13062760
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i JAE15050EZK
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i JAE15200AP1
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i SAL1646SG0U
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i FTX1335504W
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i FOX1431GN1G
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i JAE14300FNG
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i JAE14300FOR
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#
+

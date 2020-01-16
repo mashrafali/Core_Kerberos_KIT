@@ -1,0 +1,36 @@
+Version 0.1 Alpha
+* Converted flow chart to pseudo code.
+* Constructed Log-relayer file.
+* Constructed worker file with hard coded commands.
+
+Version 0.9 Beta
+* Improved Log-relayer logic.
+* removed testing code added during construction.
+
+Version 1.0
+* Added the abiltiy to configure several boxes per run.
+* Added Device-ID list to identify device's IPs.
+
+Version 1.2
+* Re-worked code logic to construct worker file, instead of hard coding.
+* Added the abiltiy to modify applied commands instead of hard coding.
+* Fixed the { " } Character bug, if included in command list.
+
+Version 1.3
+* Changed Logging Logic.
+   - Log file Name can now be entered by user.
+   - Seperate logging file for each configuration run.
+* Fixed Log file name with Space characters included.
+* Improved Tool Interactions.
+
+Version 2.0
+* Added the ability to show and monitor ip nat translations.
+* All new User Interface.
+* Minor Bug fixes.
+
+Version 3.0
+* Renamed Tool to "Core Kerberos KIT".
+* NEW LOGO!
+* Cleaned Tool's File Arrangments for better viewing.
+* Created TEMP Directory for better Dumb-Space file handling.
+* Cleaned Dumb-Space Temp files before each new operation.

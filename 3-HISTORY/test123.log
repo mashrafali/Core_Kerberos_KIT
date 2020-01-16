@@ -1,0 +1,58 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>> USER: root pts/11 2015-02-26 09:46 (217.139.224.34) <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+----------------------------------------------------------------------------------------------------------------
+
+
+
+########################## Configuration for []
+# TIME STAMP: Thu Feb 26 10:09:26 EET 2015
+########################################################################
+
+spawn telnet 217.139.253.22
+Trying 217.139.253.22...
+Connected to 217.139.253.22.
+Escape character is '^]'.
+
+CC                     
+                  ***                   
+         * *      ***      * *          
+       ** *                 * **        
+      ** *                   * **       
+     ** **  *             *  ** **      
+     ** **  *             *  **  **     
+    **  **   *           **  **  **     
+    **  **    **       ***   **  ***    
+    **   ***   *********    ***  ***    
+    ***  ****             ****  ****    
+    ***    ****          ****   ***     
+    ****    ***************    ****     
+     *****     *********     *****      
+      ******               ******       
+       ********         ********        
+         *********************          
+           *****************            
+               *********              
+
+**      *    ****        ****    ********          
+***     *  ***  ***    ***  ***  **     **     
+*  **   * **      **  **      ** **     **           
+*   **  * **      **  **      ** *******             
+*    ****  **    **    **    **  **    **            
+*      **   ******      ******   **     **
+
+
+User Access Verification
+
+Username: mashraf
+Password: 
+
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show int desc | i KFC
+Lo1064                         up             up       Source Interface for Americana KFC Cellular Tunnel1064
+Lo1207                         up             up       Source Interface for Americana KFC- Shoubra-3 - 3G Tunnel1207
+Lo1237                         up             up       Source Interface for KFC - cairo festival - 3G Tunnel1237
+Tu1064                         admin down     down     KFC Imbaba Sudan St.
+Tu1237                         up             up       " Tunnel Intreface For KFC- cairo festival - 3G
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#
+

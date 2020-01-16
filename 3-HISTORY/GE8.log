@@ -1,0 +1,410 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>> USER: rhashish pts/78 2015-02-12 15:31 (217.139.224.125) <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+----------------------------------------------------------------------------------------------------------------
+
+
+
+########################## Configuration for [pe-ramsis : 217.139.253.151]
+# TIME STAMP: Thu Feb 12 16:09:05 EET 2015
+########################################################################
+
+spawn telnet 217.139.253.151
+Trying 217.139.253.151...
+Connected to 217.139.253.151.
+Escape character is '^]'.
+C                     
+                  ***                   
+         * *      ***      * *          
+       ** *                 * **        
+      ** *                   * **       
+     ** **  *             *  ** **      
+     ** **  *             *  **  **     
+    **  **   *           **  **  **     
+    **  **    **       ***   **  ***    
+    **   ***   *********    ***  ***    
+    ***  ****             ****  ****    
+    ***    ****          ****   ***     
+    ****    ***************    ****     
+     *****     *********     *****      
+      ******               ******       
+       ********         ********        
+         *********************          
+           *****************            
+               *********              
+
+**      *    ****        ****    ********          
+***     *  ***  ***    ***  ***  **     **     
+*  **   * **      **  **      ** **     **           
+*   **  * **      **  **      ** *******             
+*    ****  **    **    **    **  **    **            
+*      **   ******      ******   **     **
+
+
+User Access Verification
+
+Username: rhashish
+Password: 
+
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#show invent | i SPA-8X1GE-
+PID: SPA-8X1GE-V2      , VID: V02, SN: JAE1510099R
+PID: SPA-8X1GE-V2      , VID: V02, SN: JAE15120B21
+pe.rams.ca.asr1#
+pe.rams.ca.asr1#
+
+########################## Configuration for [pe-auto : 217.139.253.152]
+# TIME STAMP: Thu Feb 12 16:09:05 EET 2015
+########################################################################
+
+spawn telnet 217.139.253.152
+Trying 217.139.253.152...
+Connected to 217.139.253.152.
+Escape character is '^]'.
+CC                     
+                  ***                   
+         * *      ***      * *          
+       ** *                 * **        
+      ** *                   * **       
+     ** **  *             *  ** **      
+     ** **  *             *  **  **     
+    **  **   *           **  **  **     
+    **  **    **       ***   **  ***    
+    **   ***   *********    ***  ***    
+    ***  ****             ****  ****    
+    ***    ****          ****   ***     
+    ****    ***************    ****     
+     *****     *********     *****      
+      ******               ******       
+       ********         ********        
+         *********************          
+           *****************            
+               *********              
+
+**      *    ****        ****    ********          
+***     *  ***  ***    ***  ***  **     **     
+*  **   * **      **  **      ** **     **           
+*   **  * **      **  **      ** *******             
+*    ****  **    **    **    **  **    **            
+*      **   ******      ******   **     **
+
+
+User Access Verification
+
+Username: rhashish
+Password: 
+
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#show invent | i SPA-8X1GE-
+PID: SPA-8X1GE-V2      , VID: V02, SN: JAE145001CG
+pe.auto.alx.asr1#
+pe.auto.alx.asr1#
+
+########################## Configuration for [pe-dokki : 217.139.253.153]
+# TIME STAMP: Thu Feb 12 16:09:06 EET 2015
+########################################################################
+
+spawn telnet 217.139.253.153
+Trying 217.139.253.153...
+Connected to 217.139.253.153.
+Escape character is '^]'.
+
+
+User Access Verification
+
+Username: rhashish
+Password: 
+
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#show invent | i SPA-8X1GE-
+PID: SPA-8X1GE-V2      , VID: V02, SN: JAE15120B5O
+PID: SPA-8X1GE-V2      , VID: V02, SN: JAE15120B58
+pe.doki.ca.asr1#
+pe.doki.ca.asr1#
+
+########################## Configuration for [pe-almaza : 217.139.253.154]
+# TIME STAMP: Thu Feb 12 16:09:06 EET 2015
+########################################################################
+
+spawn telnet 217.139.253.154
+Trying 217.139.253.154...
+Connected to 217.139.253.154.
+Escape character is '^]'.
+C                     
+                  ***                   
+         * *      ***      * *          
+       ** *                 * **        
+      ** *                   * **       
+     ** **  *             *  ** **      
+     ** **  *             *  **  **     
+    **  **   *           **  **  **     
+    **  **    **       ***   **  ***    
+    **   ***   *********    ***  ***    
+    ***  ****             ****  ****    
+    ***    ****          ****   ***     
+    ****    ***************    ****     
+     *****     *********     *****      
+      ******               ******       
+       ********         ********        
+         *********************          
+           *****************            
+               *********              
+
+**      *    ****        ****    ********          
+***     *  ***  ***    ***  ***  **     **     
+*  **   * **      **  **      ** **     **           
+*   **  * **      **  **      ** *******             
+*    ****  **    **    **    **  **    **            
+*      **   ******      ******   **     **
+
+User Access Verification
+
+Username: rhashish
+Password: 
+
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#show invent | i SPA-8X1GE-
+PID: SPA-8X1GE-V2      , VID: V02, SN: JAE15120B64
+PID: SPA-8X1GE-V2      , VID: V02, SN: JAE151200KW
+pe.alma.ca.asr1#
+pe.alma.ca.asr1#
+
+########################## Configuration for [pe-assiut : 217.139.253.32]
+# TIME STAMP: Thu Feb 12 16:09:07 EET 2015
+########################################################################
+
+spawn telnet 217.139.253.32
+Trying 217.139.253.32...
+Connected to 217.139.253.32.
+Escape character is '^]'.
+CC                     
+                  ***                   
+         * *      ***      * *          
+       ** *                 * **        
+      ** *                   * **       
+     ** **  *             *  ** **      
+     ** **  *             *  **  **     
+    **  **   *           **  **  **     
+    **  **    **       ***   **  ***    
+    **   ***   *********    ***  ***    
+    ***  ****             ****  ****    
+    ***    ****          ****   ***     
+    ****    ***************    ****     
+     *****     *********     *****      
+      ******               ******       
+       ********         ********        
+         *********************          
+           *****************            
+               *********              
+
+**      *    ****        ****    ********          
+***     *  ***  ***    ***  ***  **     **     
+*  **   * **      **  **      ** **     **           
+*   **  * **      **  **      ** *******             
+*    ****  **    **    **    **  **    **            
+*      **   ******      ******   **     **
+
+
+User Access Verification
+
+Username: rhashish
+Password: 
+
+pe.assu.as.asr1#
+pe.assu.as.asr1#
+pe.assu.as.asr1#show invent | i SPA-8X1GE-
+PID: SPA-8X1GE-V2      , VID: V02, SN: JAE145106R8
+pe.assu.as.asr1#
+pe.assu.as.asr1#
+
+########################## Configuration for [asbr1 : 217.139.253.11 bng-rams : 217.139.253.19 dr-common : 217.139.253.126 e3p-almaza : 217.139.253.102 e3p-dokki : 217.139.253.101 e3p-ramsis : 217.139.253.100 gateway-1 : 217.139.253.1 p1-rams : 217.139.253.141 p2-auto : 217.139.253.142 p3-dokki : 217.139.253.143 p4-almaza : 217.139.253.144 pe-almaza : 217.139.253.154 pe-auto : 217.139.253.152 pe-dokki : 217.139.253.153 pe-giza : 217.139.253.122 pe-ramsis : 217.139.253.151 pe1-10ram : 217.139.253.10 pe1-almaza : 217.139.253.123 pe1-assiut : 217.139.253.132 pe1-auto : 217.139.253.130 pe1-bablouk : 217.139.253.137 pe1-dokki : 217.139.253.16 pe1-fawala : 217.139.253.120 pe1-helwan : 217.139.253.139 pe1-mohan : 217.139.253.127 pe1-nasr : 217.139.253.15 pe1-oct2 : 217.139.253.131 pe1-rams : 217.139.253.124 pe1-roda : 217.139.253.108 pe1-smv : 217.139.253.135 pe2-ramsis : 217.139.253.133 rr-dokki : 217.139.253.110 rr-rams : 217.139.253.125]
+# TIME STAMP: Thu Feb 12 16:09:08 EET 2015
+########################################################################
+
+spawn telnet 217.139.253.1
+Trying 217.139.253.1...
+Connected to 217.139.253.1.
+Escape character is '^]'.
+
+User Access Verification
+
+Username: rhashish
+Password: 
+
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#show invent | i SPA-8X1GE-
+PID: SPA-8X1GE-V2      , VID: V02, SN: JAE145001BG
+gw1.rams.ca.asr1#
+gw1.rams.ca.asr1#
+
+########################## Configuration for [gateway-3 : 217.139.253.5]
+# TIME STAMP: Thu Feb 12 16:09:08 EET 2015
+########################################################################
+
+spawn telnet 217.139.253.5
+Trying 217.139.253.5...
+Connected to 217.139.253.5.
+Escape character is '^]'.
+
+User Access Verification
+
+Username: rhashish
+Password: 
+
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#show invent | i SPA-8X1GE-
+PID: SPA-8X1GE-V2      , VID: V02, SN: JAE145106WS
+gw3.auto.alx.asr1#
+gw3.auto.alx.asr1#
+
+########################## Configuration for [mvpn : 217.139.253.22]
+# TIME STAMP: Thu Feb 12 16:09:09 EET 2015
+########################################################################
+
+spawn telnet 217.139.253.22
+Trying 217.139.253.22...
+Connected to 217.139.253.22.
+Escape character is '^]'.
+
+CC                     
+                  ***                   
+         * *      ***      * *          
+       ** *                 * **        
+      ** *                   * **       
+     ** **  *             *  ** **      
+     ** **  *             *  **  **     
+    **  **   *           **  **  **     
+    **  **    **       ***   **  ***    
+    **   ***   *********    ***  ***    
+    ***  ****             ****  ****    
+    ***    ****          ****   ***     
+    ****    ***************    ****     
+     *****     *********     *****      
+      ******               ******       
+       ********         ********        
+         *********************          
+           *****************            
+               *********              
+
+**      *    ****        ****    ********          
+***     *  ***  ***    ***  ***  **     **     
+*  **   * **      **  **      ** **     **           
+*   **  * **      **  **      ** *******             
+*    ****  **    **    **    **  **    **            
+*      **   ******      ******   **     **
+
+User Access Verification
+
+Username: rhashish
+Password: 
+
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#show invent | i SPA-8X1GE-
+PID: SPA-8X1GE-V2      , VID: V02, SN: JAE145001A8
+PID: SPA-8X1GE-V2      , VID: V02, SN: JAE15120B5F
+mvpn.rams.ca.asr1#
+mvpn.rams.ca.asr1#
+
+########################## Configuration for [bng-rams : 217.139.253.19]
+# TIME STAMP: Thu Feb 12 16:09:09 EET 2015
+########################################################################
+
+spawn telnet 217.139.253.19
+Trying 217.139.253.19...
+Connected to 217.139.253.19.
+Escape character is '^]'.
+C
+                  ***
+         * *      ***      * *
+       ** *                 * **
+      ** *                   * **
+     ** **  *             *  ** **
+     ** **  *             *  **  **
+    **  **   *           **  **  **
+    **  **    **       ***   **  ***
+    **   ***   *********    ***  ***
+    ***  ****             ****  ****
+    ***    ****          ****   ***
+    ****    ***************    ****
+     *****     *********     *****
+      ******               ******
+       ********         ********
+         *********************
+           *****************
+               *********
+
+**      *    ****        ****    ********
+***     *  ***  ***    ***  ***  **     **
+*  **   * **      **  **      ** **     **
+*   **  * **      **  **      ** *******
+*    ****  **    **    **    **  **    **
+*      **   ******      ******   **     **
+
+
+User Access Verification
+
+Username: rhashish
+Password: 
+
+bng.rams.ca.asr1#
+bng.rams.ca.asr1#
+bng.rams.ca.asr1#show invent | i SPA-8X1GE-
+PID: SPA-8X1GE-V2      , VID: V02, SN: JAE145001HQ
+bng.rams.ca.asr1#
+bng.rams.ca.asr1#
+
+########################## Configuration for [bng-auto : 217.139.253.29]
+# TIME STAMP: Thu Feb 12 16:09:09 EET 2015
+########################################################################
+
+spawn telnet 217.139.253.29
+Trying 217.139.253.29...
+Connected to 217.139.253.29.
+Escape character is '^]'.
+
+CC
+                  ***
+         * *      ***      * *
+       ** *                 * **
+      ** *                   * **
+     ** **  *             *  ** **
+     ** **  *             *  **  **
+    **  **   *           **  **  **
+    **  **    **       ***   **  ***
+    **   ***   *********    ***  ***
+    ***  ****             ****  ****
+    ***    ****          ****   ***
+    ****    ***************    ****
+     *****     *********     *****
+      ******               ******
+       ********         ********
+         *********************
+           *****************
+               *********
+
+**      *    ****        ****    ********
+***     *  ***  ***    ***  ***  **     **
+*  **   * **      **  **      ** **     **
+*   **  * **      **  **      ** *******
+*    ****  **    **    **    **  **    **
+*      **   ******      ******   **     **
+
+
+User Access Verification
+
+Username: rhashish
+Password: 
+
+bng.auto.alx.asr#
+bng.auto.alx.asr#
+bng.auto.alx.asr#show invent | i SPA-8X1GE-
+PID: SPA-8X1GE-V2      , VID: V02, SN: JAE145106S4
+PID: SPA-8X1GE-V2      , VID: V02, SN: JAE145001HM
+bng.auto.alx.asr#
+bng.auto.alx.asr#
+

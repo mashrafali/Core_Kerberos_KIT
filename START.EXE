@@ -1,0 +1,48 @@
+#! /bin/bash
+
+cd 2-TEMP/
+rm Dumb-Space.*
+cd ..
+clear
+cat ./1-BIN/logo.ascii
+sleep 3
+clear
+echo
+echo
+echo
+echo "             ___  _____  __    ___   ___    _____        _           _                 "
+echo "            / __\ \_   \/ _\  / __\ /___\   \_   \_ __  (_) ___  ___| |_ ___  _ __     "
+echo "           / /     / /\/\ \  / /   //  //    / /\/ '_ \ | |/ _ \/ __| __/ _ \| '__|    "
+echo "          / /___/\/ /_  _\ \/ /___/ \_//  /\/ /_ | | | || |  __/ (__| || (_) | |       "
+echo "          \____/\____/  \__/\____/\___/   \____/ |_| |_|/ |\___|\___|\__\___/|_|       "
+echo "                                                       |__/                            "
+echo
+echo
+echo
+
+echo "              What would you like to do?"
+echo "              --------------------------"
+echo
+echo "               1- Inject Cisco Commands."
+echo "               2- show corporate ip nat Translations."
+echo
+read -p '                           Your Choice:  ' pointer
+case $pointer in
+
+     1) (
+        ./1-BIN/Log-Relayer.sh
+        )
+        ;;
+     2) (
+        ./1-BIN/corp-ip-nat.sh
+        )
+         ;;
+     *) (
+         echo
+         /usr/games/cowsay "Agebo meneen el option da? Salam ya 3am"
+         echo
+         sleep 4
+         )
+         ;;
+esac
+
